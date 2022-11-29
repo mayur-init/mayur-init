@@ -1,5 +1,5 @@
 <h3 align="center">Hi there👋, I'm Mayur Rai</h2>
-<h2 align="center">A passionate Web2.0 developer from India.</h3>
+<h2 align="center">A passionate full developer from India.</h3>
 
 - 📫 How to reach me **mayurcosmos007@gmail.com**
 
