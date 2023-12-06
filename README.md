@@ -1,7 +1,7 @@
 <h3 align="center">Hi there👋, I'm Mayur Rai</h2>
 <h2 align="center">A passionate full-stack developer from India.</h3>
 
-- 📫 How to reach me **mayurcosmos007@gmail.com**
+- 📫 How to [reach me](https://bio.link/mayurdluffy)
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
